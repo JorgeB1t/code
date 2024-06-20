@@ -1,2 +1,6 @@
-ch1-setup\.venv
-helloworld\.venv
+*.pyc
+__pycache
+.DS_Store
+.git
+.vscode
+.venv
