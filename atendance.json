@@ -1,0 +1,5 @@
+{'id': 163951, 'employee_id': [502, 'Jorge Gallego-Casilda Gonzalez'], 'check_in': '2024-06-24 06:51:46', 'check_out': False}
+{'id': 163888, 'employee_id': [502, 'Jorge Gallego-Casilda Gonzalez'], 'check_in': '2024-06-21 05:40:59', 'check_out': '2024-06-21 14:41:17'}
+{'id': 163862, 'employee_id': [502, 'Jorge Gallego-Casilda Gonzalez'], 'check_in': '2024-06-20 06:05:51', 'check_out': '2024-06-20 16:01:15'}
+{'id': 163812, 'employee_id': [502, 'Jorge Gallego-Casilda Gonzalez'], 'check_in': '2024-06-19 06:01:01', 'check_out': '2024-06-19 14:01:13'}
+{'id': 163776, 'employee_id': [502, 'Jorge Gallego-Casilda Gonzalez'], 'check_in': '2024-06-18 06:21:55', 'check_out': '2024-06-18 15:00:28'}
